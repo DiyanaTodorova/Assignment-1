@@ -1,0 +1,13 @@
+{
+  "Users": {
+    "Id": 1,
+    "Username": "admin",
+    "Password": "adminpassword",
+    "FirstName": "Ivan",
+    "LastName": "Ivanov",
+    "Role": 1,
+    "lists":  null
+  }
+}
+
+
